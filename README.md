@@ -1,10 +1,29 @@
+
+
 <h1 align="center" style="font-family: 'Roboto Mono', monospace;">ma1loc@github:~$</h1>
 
-
+<h2 align="center">whoami?</h2>
+<p align="center">
+  1337 student based in Morocco,  
+  learning & passionate about ethical hacking,  
+  broken systems, and writing my own tools
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=1337+Student+%7C+Ethical+Hacking+Learner;Building+Shells+from+Scratch+%F0%9F%92%AB;Python+Tools+%7C+C+Low-Level+Magic;Break+Code.+Understand+Systems.+Stay+Sharp." alt="Typing SVG" />
+  <code style="color:#ffffff">C</code> • <code style="color:#ffffff">Python</code> • <code style="color:#ffffff">Bash</code> • <code style="color:#ffffff">Git</code> • <code style="color:#ffffff">Linux</code> • <code style="color:#ffffff">Networking</code>
 </p>
+
+
+
+<h2 align="center">featured work</h2>
+<ul>
+  <li>✔ <b>network_scanner</b> — A simple tool to discover network devices.</li>
+</ul>
+
+<h2 align="center">currently working on</h2>
+<ul>
+  <li>⚡ Learning about system exploits and vulnerabilities</li>
+</ul>
 
 
 <p align="center">
@@ -12,28 +31,7 @@
 </p>
 
 
-<h2>whoami</h2>
-
-1337 student based in Morocco  
-learning ethical hacking & system internals  
-Passionate about ethical hacking, broken systems, and writing my own tools  
-
-<h2><code style="color:#00ff00">[+] currently_learning</code></h2>
-
-
-<code style="color:#00ff00">C</code> • <code style="color:#00ff00">Python</code> • <code style="color:#00ff00">Bash</code> • <code style="color:#00ff00">Git</code> • <code style="color:#00ff00">Linux</code>
-
-
-
-<h2>featured work</h2>
-
-✔ network_scanner — a simple tool allows you to discover network devices 
-
-<h2>motto</h2>
-
-"Break it. Learn it. Rebuild it stronger."
-
-<h2>status</h2>
-
-⚡ Currently diving into system programming & cybersecurity  
-🧠 Always learning, always building  
+<h2 align="center">let's connect</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/youness-anflous-80b750257/" target="_blank">LinkedIn</a> - <a href="https://x.com/YounessAnflous" target="_blank">Twitter</a>
+</p>
