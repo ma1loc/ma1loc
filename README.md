@@ -17,6 +17,9 @@
 
 <h2 align="center">featured work</h2>
 <ul>
+  <li>✔ <b>mac_addr_changer</b> — A simple tool to change MAC address of a device.</li>
+</ul>
+<ul>
   <li>✔ <b>network_scanner</b> — A simple tool to discover network devices.</li>
 </ul>
 
