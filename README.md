@@ -25,7 +25,7 @@
 
 <h2 align="center">currently working on</h2>
 <ul>
-  <li>⚡ Learning about system exploits and vulnerabilities</li>
+  <li>⚡ Learn Python && build ethical hacking tools from scratch</li>
 </ul>
 
 
