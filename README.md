@@ -23,7 +23,7 @@ Passionate about cybersecurity, system internals, and writing custom tools
 
 - Leaning the ethical hacking fundamentals, how things works
 - Building simple, effective tools to automate common hacking tasks
-- SEC504 – GCIH learning
+- OSCP(Offensive Security Certified Professional) learning
 
 <!-- --- -->
 
