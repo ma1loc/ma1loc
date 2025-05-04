@@ -21,8 +21,9 @@ Passionate about cybersecurity, system internals, and writing custom tools
 
 ## 🎯 Current Focus
 
-- Leaning the ethical hacking fundamentals, how things works 
+- Leaning the ethical hacking fundamentals, how things works
 - Building simple, effective tools to automate common hacking tasks
+- SEC504 – GCIH learning
 
 <!-- --- -->
 
