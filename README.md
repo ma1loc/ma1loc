@@ -15,15 +15,15 @@ Passionate about cybersecurity, system internals, and writing custom tools
 
 ## 🛠 Featured Projects
 
-- **network_scanner** — Lightweight Python network discovery script
+- **netdiscover** — Lightweight Python network discovery script tool
 
 <!-- --- -->
 
 ## 🎯 Current Focus
 
-- Leaning the ethical hacking fundamentals, how things works
+- learning Current Path Penetration Tester(HackTheBox)
 - Building simple, effective tools to automate common hacking tasks
-- OSCP(Offensive Security Certified Professional) learning
+
 
 <!-- --- -->
 
