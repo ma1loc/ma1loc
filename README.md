@@ -13,8 +13,8 @@ Passionate about cybersecurity, system internals, and writing custom tools
 
 <!-- --- -->
 
-## 🛠 Featured Projects
-
+## 🛠 Featured Projects && Goals
+- 2-Year Goal: Become OSCP Certified (by 2027) 🛡️
 - **netdiscover** — Lightweight Python network discovery script tool
 
 <!-- --- -->
@@ -23,6 +23,7 @@ Passionate about cybersecurity, system internals, and writing custom tools
 
 - learning Current Path Penetration Tester(HackTheBox)
 - Building simple, effective tools to automate common hacking tasks
+
 
 
 <!-- --- -->
