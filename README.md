@@ -21,7 +21,6 @@ Passionate about cybersecurity, system internals, and writing custom tools
 
 ## 🎯 Current Focus
 
-- learning Current Path Penetration Tester(HackTheBox)
 - Building simple, effective tools to automate common hacking tasks
 
 
