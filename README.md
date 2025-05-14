@@ -15,7 +15,7 @@ Passionate about cybersecurity, system internals, and writing custom tools
 
 ## 🛠 Featured Projects && Goals
 - 2-Year Goal: Become OSCP Certified (by 2027) 🛡️
-- **netdiscover** — Lightweight Python network discovery script tool
+- **arp_active_scanner** — Lightweight Python network discovery script tool
 
 <!-- --- -->
 
