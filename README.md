@@ -14,13 +14,12 @@ Passionate about cybersecurity, system internals, and writing custom tools
 <!-- --- -->
 
 ## 🛠 Featured Projects && Goals
-- 2-Year Goal: Become OSCP Certified (by 2027) 🛡️
 - **arp_spoofing** — ARP spoofing tricks a network into sending data to the attacker’s device.
 
 <!-- --- -->
 
 ## 🎯 Current Focus
-
+- Following the Cyber Million program
 - Building simple, effective tools to automate common hacking tasks
 
 
