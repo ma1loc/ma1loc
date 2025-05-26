@@ -14,7 +14,7 @@ Passionate about cybersecurity, system internals, and writing custom tools
 <!-- --- -->
 
 ## 🛠 Featured Projects && Goals
-- **arp_spoofing** — ARP spoofing tricks a network into sending data to the attacker’s device.
+- ** network_Dos** — Denial of Service (DoS) attack denies all devices in a local network from accessing the internet
 
 <!-- --- -->
 
