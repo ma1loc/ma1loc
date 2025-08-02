@@ -1,6 +1,6 @@
 ## whoami?
-Youness anflous(@ma1loc) Ethical hacker in training · 1337 student · Based in Morocco  
-Passionate about cybersecurity, system internals, and writing custom tools
+Youness anflous(@ma1loc) Aspiring Backend Developer · 1337 Student · Based in Morocco  
+Passionate about security
 
 **Languages & Tools:**  
 ![C](https://img.shields.io/badge/C-05122A?style=flat&logo=c&logoColor=white)
@@ -13,13 +13,10 @@ Passionate about cybersecurity, system internals, and writing custom tools
 <!-- --- -->
 
 ## 🛠 Featured Projects && Goals
-- ** network_Dos** — Denial of Service (DoS) attack denies all devices in a local network from accessing the internet
 
 <!-- --- -->
 
 ## 🎯 Current Focus
-- Following the Cyber Million program
-- Building simple, effective tools to automate common hacking tasks
 
 
 
@@ -27,5 +24,4 @@ Passionate about cybersecurity, system internals, and writing custom tools
 
 ### 🌐 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youness-anflous-80b750257/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/YounessAnflous) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ma1loc)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/YounessAnflous)
