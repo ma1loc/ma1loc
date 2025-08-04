@@ -1,5 +1,5 @@
 ## About
-Youness anflous(@ma1loc) Aspiring Backend Developer · 1337 Student · Based in Morocco  
+Youness Anflous(@ma1loc), Aspiring Backend Developer, Based in Morocco, Currently a Student at 1337 School
 Passionate about security && dev
 
 **Languages & Tools:**  
@@ -7,10 +7,7 @@ Passionate about security && dev
 ![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-004D73?style=flat&logo=wireshark&logoColor=white)
-<!-- ![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white) -->
 
-
-<!-- --- -->
 
 ### 🌐 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youness-anflous-80b750257/)
