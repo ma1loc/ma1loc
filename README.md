@@ -1,6 +1,6 @@
 ## About
 Youness anflous(@ma1loc) Aspiring Backend Developer · 1337 Student · Based in Morocco  
-Passionate about security
+Passionate about security && dev
 
 **Languages & Tools:**  
 ![C](https://img.shields.io/badge/C-05122A?style=flat&logo=c&logoColor=white)
@@ -8,16 +8,6 @@ Passionate about security
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-004D73?style=flat&logo=wireshark&logoColor=white)
 <!-- ![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white) -->
-
-
-<!-- --- -->
-
-## 🛠 Featured Projects && Goals
-
-<!-- --- -->
-
-## 🎯 Current Focus
-
 
 
 <!-- --- -->
