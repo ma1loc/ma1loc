@@ -7,7 +7,6 @@ Passionate about security && dev
 ![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-004D73?style=flat&logo=wireshark&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white)
 
 **Current Focus:**  
 - Learning JS fundamentals
