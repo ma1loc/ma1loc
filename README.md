@@ -3,12 +3,15 @@ Youness Anflous(@ma1loc), Aspiring Backend Developer, Based in Morocco, Currentl
 Passionate about security && dev
 
 **Languages & Tools:**  
-![C](https://img.shields.io/badge/C-05122A?style=flat&logo=c&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-004D73?style=flat&logo=wireshark&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white)
+![C](https://img.shields.io/badge/C-05122A?style=flat&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-**Current Focus:**  
+
+
+**Current Focus:** 
 - Learning JS fundamentals
 
 ### 🌐 Let's Connect
