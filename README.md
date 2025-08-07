@@ -13,7 +13,7 @@ Passionate about security && dev
 
 **Current Focus:** 
 - Learning JS fundamentals
-
+- Learning CPP Syntax
 ### 🌐 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youness-anflous-80b750257/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/YounessAnflous)
