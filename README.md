@@ -1,16 +1,24 @@
-## About
-Youness Anflous(@ma1loc), Based in Morocco, Currently a Student at 1337 School  
-Passionate about security && dev
+## About Me
+**Youness Anflous** ([@ma1loc](https://www.linkedin.com/in/youness-anflous-80b750257/))  
+Student at **1337 School** | Based in Morocco  
+Passionate about **Security & Development**
 
-**Languages & Tools:**  
-![Networking](https://img.shields.io/badge/Networking-004D73?style=flat&logo=wireshark&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
-![C](https://img.shields.io/badge/C-05122A?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+---
 
+### Tech Stack
 
-### 🌐 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youness-anflous-80b750257/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/YounessAnflous)
+**Core Skills:**  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Tools & Technologies:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+---
+
+### Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youness-anflous-80b750257/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/YounessAnflous)
