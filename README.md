@@ -1,7 +1,7 @@
 ## About
 
 **Youness Anflous** | [@ma1loc](https://github.com/ma1loc)  
-Student at 1337(42 Network) school, From Morocco
+Student at 1337(42 Network) school, From Morocco   
 Focused on security and development
 
 ### Technical Skills
