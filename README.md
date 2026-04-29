@@ -1,7 +1,7 @@
 ## About
 
 **Youness Anflous** | [@ma1loc](https://github.com/ma1loc)  
-Student at 1337 (42 Network), Morocco 
+Student at 1337 (42 Network), Morocco  
 Structure first, then code, then break it.
 
 ### Knowledgeable about
