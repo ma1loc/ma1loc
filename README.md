@@ -2,7 +2,8 @@
 
 **Youness Anflous** | [@ma1loc](https://github.com/ma1loc)  
 Student at 1337 (42 Network), Morocco  
-Structure first, then code, then break it.
+Aspiring Backend Developer | C# & .NET  
+Structure first, then code, then break it.  
 
 ### Knowledgeable about
 
@@ -11,12 +12,11 @@ Structure first, then code, then break it.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Networking](https://img.shields.io/badge/Networking-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ### Currently learning
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white)
-
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
 
 ### Contact
 
